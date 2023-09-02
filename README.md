@@ -23,4 +23,6 @@
 
 [Chapter02 자바스크립트란?](https://www.notion.so/Chapter02-9d6c8a9415794749ab788dbbe094038c?pvs=4)
 
+[Chapter04 변수](https://www.notion.so/Chapter04-8a7dd6e559194619b7394b199b117c73?pvs=4)
+
 ### Velog
