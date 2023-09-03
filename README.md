@@ -25,4 +25,8 @@
 
 [Chapter04 변수](https://www.notion.so/Chapter04-8a7dd6e559194619b7394b199b117c73?pvs=4)
 
+[Chapter05 표현식과 문](https://www.notion.so/Chapter05-d325aa92953f438eb1297717e0124726?pvs=4)
+
+[Chapter06 데이터 타입](https://www.notion.so/Chapter06-20a9804f54604db684258a58eed3d552?pvs=4)
+
 ### Velog
