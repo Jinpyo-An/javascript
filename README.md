@@ -29,7 +29,9 @@
 
 [Chapter06 데이터 타입](https://www.notion.so/Chapter06-20a9804f54604db684258a58eed3d552?pvs=4)
 
-[Chapter07 연산자](https://www.notion.so/Chapter07-17b6a03c2cfc4d36af26f7b3bf5eca44?pvs=4)
+[Chapter07 연산자](https://www.notion.so/Chapter07-317b6a03c2cfc4d36af26f7b3bf5eca44?pvs=4)
 
 [Chapter08 제어문](https://www.notion.so/Chapter08-6ac547a4f50e44bcb959cd7fecb7d371?pvs=4)
+
+[Chapter09 타입 변환과 단축 평가](https://www.notion.so/Chapter09-58b2fc62cb4046eba2dc92c4a8b99140?pvs=4)
 ### Velog
