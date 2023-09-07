@@ -34,4 +34,6 @@
 [Chapter08 제어문](https://www.notion.so/Chapter08-6ac547a4f50e44bcb959cd7fecb7d371?pvs=4)
 
 [Chapter09 타입 변환과 단축 평가](https://www.notion.so/Chapter09-58b2fc62cb4046eba2dc92c4a8b99140?pvs=4)
+
+[Chapter10 객체 리터럴](https://www.notion.so/Chapter10-eea124b93e5a44059998599866fe5cab?pvs=4)
 ### Velog
