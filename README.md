@@ -38,4 +38,6 @@
 [Chapter10 객체 리터럴](https://www.notion.so/Chapter10-eea124b93e5a44059998599866fe5cab?pvs=4)
 
 [Chapter11 원시 값과 객체의 비교](https://www.notion.so/Chapter11-b18a8f1145ce47f29a8ab32d61d2755b?pvs=4)
+
+[Chapter12 함수](https://www.notion.so/Chapter12-e750ecd682ad4468bc4f3f9b40b1d6f1?pvs=4)
 ### Velog
