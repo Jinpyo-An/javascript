@@ -41,4 +41,6 @@
 
 [Chapter12 함수](https://www.notion.so/Chapter12-e750ecd682ad4468bc4f3f9b40b1d6f1?pvs=4)
 
+[Chapter13 스코프](https://www.notion.so/Chapter13-86930aa4d33647f280390ac0155b5496?pvs=4)
+
 ### Velog
