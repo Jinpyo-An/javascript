@@ -43,4 +43,6 @@
 
 [Chapter13 스코프](https://www.notion.so/Chapter13-86930aa4d33647f280390ac0155b5496?pvs=4)
 
+[Chpater14 전역 변수의 문제점](https://www.notion.so/Chapter14-46b0608142d5467494e55c43f3e06316?pvs=4)
+
 ### Velog
