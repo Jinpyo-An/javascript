@@ -43,6 +43,8 @@
 
 [Chapter13 스코프](https://www.notion.so/Chapter13-86930aa4d33647f280390ac0155b5496?pvs=4)
 
-[Chpater14 전역 변수의 문제점](https://www.notion.so/Chapter14-46b0608142d5467494e55c43f3e06316?pvs=4)
+[Chapter14 전역 변수의 문제점](https://www.notion.so/Chapter14-46b0608142d5467494e55c43f3e06316?pvs=4)
+
+[Chapter15 let, const 키워드와 블록 레벨 스코프](https://www.notion.so/Chapter15-let-const-4c22326ec1894b1bbbffb821ca8df6a5?pvs=4)
 
 ### Velog
