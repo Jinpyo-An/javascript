@@ -48,4 +48,6 @@
 [Chapter15 let, const 키워드와 블록 레벨 스코프](https://www.notion.so/Chapter15-let-const-4c22326ec1894b1bbbffb821ca8df6a5?pvs=4)
 
 [Chapter16 프로퍼티 어트리뷰트](https://www.notion.so/Chapter16-8d73f4661bf448259c860bb73766e89d?pvs=4)
+
+[Chapter17 생성자 함수에 의한 객체 생성](https://www.notion.so/Chapter17-6e6dc7c144e1435bb380a9846f06f3f2?pvs=4)
 ### Velog
