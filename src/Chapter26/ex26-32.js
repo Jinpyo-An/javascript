@@ -4,9 +4,9 @@ class Prefixer {
     }
 
     add(arr) {
-        return arr.map(item => this.prefix +item);
+        return arr.map(item => this.prefix + item);
     }
 }
 
-const prefixer = new Prefixer('-webkit-');
-console.log(prefixer.add(['transition', 'user-select']));
+const prefixer = new Prefixer("-webkit-");
+console.log(prefixer.add(["transition", "user-select"]));

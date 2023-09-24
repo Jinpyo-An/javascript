@@ -1,12 +1,12 @@
 const counter = {
-    num:1,
+    num: 1,
     increase: () => ++this.num,
 };
 
 console.log(counter.increase());
 
 const person = {
-    name:'Lee',
+    name: "Lee",
     sayHi: () => console.log(`Hi ${this.name}`),
 };
 
