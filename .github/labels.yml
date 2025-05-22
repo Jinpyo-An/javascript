@@ -1,0 +1,47 @@
+- name: type: bug
+  color: d73a4a
+  description: 기능 오류, 버그
+
+- name: type: feature
+  color: a2eeef
+  description: 새로운 기능 요청 또는 구현
+
+- name: type: improvement
+  color: 84b6eb
+  description: 기존 기능 개선
+
+- name: type: refactor
+  color: cfd3d7
+  description: 리팩토링
+
+- name: type: test
+  color: 5319e7
+  description: 테스트 관련 작업
+
+- name: type: chore
+  color: cccccc
+  description: 빌드 관련 수정, 패키지 매니저 설정 등
+
+- name: type: documentation
+  color: 0075ca
+  description: 문서 관련 변경
+
+- name: status: todo
+  color: fef2c0
+  description: 해야 할 작업
+
+- name: status: in progress
+  color: fbca04
+  description: 작업 진행 중
+
+- name: status: review
+  color: f9d0c4
+  description: 코드 리뷰 중
+
+- name: status: done
+  color: 0e8a16
+  description: 작업 완료
+
+- name: status: blocked
+  color: b60205
+  description: 외부 요인 등으로 작업 진행 불가
